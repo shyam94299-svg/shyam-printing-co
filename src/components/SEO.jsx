@@ -1,7 +1,7 @@
 import { Helmet } from "react-helmet-async";
 
 const BASE_URL = "https://shyamprinting.com";
-const DEFAULT_IMAGE = ${BASE_URL}/Logo%20color.png;
+const DEFAULT_IMAGE = `${BASE_URL}/Logo%20color.png`;
 
 const SEO = ({ title, description, path = "", image = DEFAULT_IMAGE }) => {
   const full_title = title
