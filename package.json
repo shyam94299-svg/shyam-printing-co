@@ -15,6 +15,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.14.1"
+    "react-helmet-async": "^2.0.4"
   },
   "devDependencies": {
     "@ngrok/ngrok": "^1.7.0",
