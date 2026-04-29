@@ -5,6 +5,7 @@ import WhyChooseUs from "../components/WhyChooseUs";
 import Contact from "../components/Contact";
 import AnimatedSection from "../components/AnimatedSection";
 import SectionBottomCurve from "../components/SectionBottomCurve";
+import SEO from "../components/SEO";
 
 const ServicesPage = () => {
   const { hash } = useLocation();
@@ -26,6 +27,11 @@ const ServicesPage = () => {
 
   return (
     <>
+      <SEO
+        title="Printing Services — Offset, Packaging, Pantone & Design"
+        description="Explore Shyam Printing's services: offset printing, product packaging, Pantone color printing, and creative design. Trusted by 500+ businesses in Ahmedabad, Gujarat."
+        path="/services"
+      />
       <section
         className="relative pt-28 pb-16 lg:pt-36 lg:pb-20"
         style={{

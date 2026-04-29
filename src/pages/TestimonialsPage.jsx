@@ -2,10 +2,16 @@ import Testimonials from "../components/Testimonials";
 import Contact from "../components/Contact";
 import AnimatedSection from "../components/AnimatedSection";
 import SectionBottomCurve from "../components/SectionBottomCurve";
+import SEO from "../components/SEO";
 
 const TestimonialsPage = () => {
   return (
     <>
+      <SEO
+        title="Client Testimonials & Reviews"
+        description="Read what 500+ happy clients say about Shyam Printing. Trusted for offset printing, packaging, and design services across Ahmedabad, Gujarat."
+        path="/testimonials"
+      />
       <section
         className="relative pt-28 pb-16 lg:pt-36 lg:pb-20"
         style={{

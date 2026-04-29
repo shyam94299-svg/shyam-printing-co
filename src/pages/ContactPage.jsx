@@ -1,10 +1,16 @@
 import Contact from "../components/Contact";
 import AnimatedSection from "../components/AnimatedSection";
 import SectionBottomCurve from "../components/SectionBottomCurve";
+import SEO from "../components/SEO";
 
 const ContactPage = () => {
   return (
     <>
+      <SEO
+        title="Contact Us — Get a Free Printing Quote"
+        description="Contact Shyam Printing for a free quote. Call +91 94299 14888 or email connect@shyamprinting.com. Located in Nikol, Ahmedabad. Mon–Sat 10AM–6PM."
+        path="/contact"
+      />
       <section
         className="relative pt-28 pb-16 lg:pt-36 lg:pb-20"
         style={{

@@ -3,10 +3,16 @@ import WhyChooseUs from "../components/WhyChooseUs";
 import Testimonials from "../components/Testimonials";
 import AnimatedSection from "../components/AnimatedSection";
 import SectionBottomCurve from "../components/SectionBottomCurve";
+import SEO from "../components/SEO";
 
 const AboutPage = () => {
   return (
     <>
+      <SEO
+        title="About Us — 20+ Years of Printing Excellence in Ahmedabad"
+        description="Learn about Shyam Printing — Ahmedabad's trusted printing partner for over 20 years. Premium offset printing, packaging, and design with unmatched attention to detail."
+        path="/about"
+      />
       <section
         className="relative pt-28 pb-16 lg:pt-36 lg:pb-20"
         style={{
