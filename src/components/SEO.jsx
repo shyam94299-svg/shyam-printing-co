@@ -1,13 +1,14 @@
 import { Helmet } from "react-helmet-async";
 
 const BASE_URL = "https://shyamprinting.com";
-const DEFAULT_IMAGE = ${BASE_URL}/Logo%20color.png;
+const DEFAULT_IMAGE = `${BASE_URL}/Logo%20color.png`;
 
 const SEO = ({ title, description, path = "", image = DEFAULT_IMAGE }) => {
   const full_title = title
-    ? ${title} | Shyam Printing
+    ? `${title} | Shyam Printing`
     : "Shyam Printing — Premium Printing Services in Ahmedabad";
-  const canonical = ${BASE_URL}${path};
+
+  const canonical = `${BASE_URL}${path}`;
 
   return (
     <Helmet>
