@@ -67,7 +67,7 @@ const Footer = () => {
             </Link>
             <p className="mb-8 max-w-sm text-sm leading-relaxed text-white/70">
               Premium printing solutions for businesses and individuals. Quality,
-              speed, and creativity in every project since 2005. Your trusted
+              speed, and creativity in every project since 2022. Your trusted
               partner for all print needs.
             </p>
             <div className="flex gap-3">
