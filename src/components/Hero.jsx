@@ -136,7 +136,7 @@ const Hero = () => {
                     <Sparkles className="h-5 w-5 text-primary" />
                   </div>
                   <div>
-                    <p className="text-sm font-bold text-primary">15+ Years</p>
+                    <p className="text-sm font-bold text-primary">4+ Years</p>
                     <p className="text-xs text-gray-500">Experience</p>
                   </div>
                 </div>
