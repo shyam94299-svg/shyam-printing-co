@@ -136,8 +136,8 @@ const Hero = () => {
                     <Sparkles className="h-5 w-5 text-primary" />
                   </div>
                   <div>
-                    <p className="text-sm font-bold text-primary">4+ Years</p>
-                    <p className="text-xs text-gray-500">Experience</p>
+                    <p className="text-sm font-bold text-primary">98%</p>
+                    <p className="text-xs text-gray-500">Satisfaction</p>
                   </div>
                 </div>
               </div>
@@ -147,9 +147,9 @@ const Hero = () => {
 
         <div className="mt-6 grid w-full grid-cols-3 gap-4 pt-4 animate-fade-in-up animation-delay-600 sm:mt-10 sm:gap-6 sm:pt-8 lg:hidden">
           {[
-            { number: "15K+", label: "Projects Done" },
-            { number: "500+", label: "Happy Clients" },
-            { number: "20+", label: "Years Exp." },
+            { number: "100+", label: "Projects Done" },
+            { number: "50+", label: "Happy Clients" },
+            { number: "4+", label: "Years Exp." },
           ].map(({ number, label }) => (
             <div key={label} className="text-center">
               <p className="text-xl font-bold text-white sm:text-2xl">{number}</p>
