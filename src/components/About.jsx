@@ -11,7 +11,7 @@ const HIGHLIGHTS = [
 const STATS = [
   { icon: Captions, value: "60k+ Sheets", label: "Everyday Printing Capacity" },
   { icon: Users, value: "200+", label: "Repeat Orders" },
-  { icon: Captions, value: "40+", label: "Unique Products" },
+  { icon: Captions, value: "5+", label: "Unique Products" },
 ];
 
 const About = () => {
