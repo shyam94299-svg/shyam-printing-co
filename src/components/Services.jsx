@@ -58,11 +58,11 @@ const SERVICE_GALLERIES = [
     title: "Offset Printing",
     images: [
       { src: "/Printing/Business Card.jpg", alt: "Business Card", name: "Business Card" },
-      { src: "/Printing/Dangler.jpg", alt: "Danglers", name:"Danglers" },
-      { src: "/Printing/food-paper.jpg", alt: "Food Paper bag", name: "Food Paper Bag" },
       { src: "/Printing/Stationery.jpg", alt: "Corporate stationery", name: "Corporate stationery" },
+      { src: "/Printing/food-paper.jpg", alt: "Food Paper bag", name: "Food Paper Bag" },
       { src: "/Printing/paper-bag.png", alt: "Paper Bag", name: "Paper Bag" },
       { src: "/Printing/Stickers.png", alt: "Stickers", name: "Stickers" },
+      { src: "/Packaging/Foil.webp ", alt: "Foil Printing", name: "Foil Printing" },
     ],
   },
   {
@@ -77,7 +77,6 @@ const SERVICE_GALLERIES = [
       { src: "/Packaging/Pharma Box.png", alt: "Product packaging", name: "Pharmaceutical Box" },
       { src: "/Packaging/PIzza Box.jpg", alt: "Product packaging", name: "Pizza Box" },
       { src: "/Packaging/Label1.jpg", alt: "Product packaging", name: "Product Packaging" },
-      { src: "/Packaging/Foil.webp ", alt: "Product packaging", name: "Foil Packaging" },
      ],
   },
 ];
