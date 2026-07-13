@@ -29,9 +29,9 @@ const REASONS = [
 ];
 
 const STATS = [
-  { value: "999+", label: "Projects Completed" },
-  { value: "200+", label: "Happy Clients" },
-  { value: "15+", label: "Years Experience" },
+  { value: "100+", label: "Projects Completed" },
+  { value: "50+", label: "Happy Clients" },
+  { value: "4+", label: "Years Experience" },
   { value: "98%", label: "Satisfaction Rate" },
 ];
 
