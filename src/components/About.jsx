@@ -28,10 +28,10 @@ const About = () => {
               </span>
               <h2 className="mb-5 font-display text-2xl font-bold text-gray-900 sm:mb-6 sm:text-3xl md:text-4xl">
                 Crafting Print Excellence{" "}
-                <span className="text-primary">Since 2005</span>
+                <span className="text-primary">Since 2022</span>
               </h2>
               <p className="mb-5 text-base leading-relaxed text-gray-600 sm:mb-6 sm:text-lg">
-                At <span className="font-semibold text-primary">Shyam Printing</span>, we bring together advanced printing technology and years of industry expertise to deliver exceptional results. Since 2005, we have been helping businesses enhance their brand presence through high-quality printing and innovative packaging solutions.
+                At <span className="font-semibold text-primary">Shyam Printing</span>, we bring together advanced printing technology and years of industry expertise to deliver exceptional results. Since 2022, we have been helping businesses enhance their brand presence through high-quality printing and innovative packaging solutions.
               </p>
               <p className="mb-5 text-base leading-relaxed text-gray-600 sm:mb-6 sm:text-lg">
                 From business essentials to customized packaging, every project is handled with precision, creativity, and attention to detail. Our focus is not just printing — but creating impactful brand experiences that leave a lasting impression.
